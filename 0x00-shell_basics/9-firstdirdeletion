@@ -1,2 +1,2 @@
 #!/biin/bash
-rmdir /tmp/holberton
+rm -rf /tmp/holberton
